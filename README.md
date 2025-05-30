@@ -1,4 +1,4 @@
-# 📚 FastAPI Chatbot with PDF Q&A (Gemini API)
+# FastAPI Chatbot with PDF Q&A 
 
 A FastAPI application that enables chatbot interactions and intelligent question-answering from uploaded PDF documents using Google's Gemini API and LangChain.
 
